@@ -5,10 +5,10 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=Atmaterial new by kenzo
+LUCI_TITLE:=Atmaterial new by micc
 LUCI_DEPENDS:=
 PKG_VERSION:=1.2
-PKG_RELEASE:=02-20200209
+PKG_RELEASE:=2022-03
 
 include $(TOPDIR)/feeds/luci/luci.mk
 
